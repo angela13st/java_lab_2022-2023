@@ -1,0 +1,27 @@
+[
+  {
+    "smartDeviceID": 100,
+    "history": [
+      280,
+      371
+    ]
+  },
+  {
+    "smartDeviceID": 101,
+    "history": [
+      350
+    ]
+  },
+  {
+    "smartDeviceID": 102,
+    "history": [
+      224
+    ]
+  },
+  {
+    "smartDeviceID": 103,
+    "history": [
+      164
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "clientID": 100,
+    "clientData": "Stipe Matic",
+    "address": {
+      "addressID": 100,
+      "streetName": "Ilica",
+      "streetNumber": "123",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 100,
+      "history": [
+        280,
+        371
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Angela Plazibat",
+    "address": {
+      "addressID": 101,
+      "streetName": "Vinkovacka",
+      "streetNumber": "29",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 101,
+      "history": [
+        350
+      ]
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Igor Jerkov",
+    "address": {
+      "addressID": 102,
+      "streetName": "Vukovarska",
+      "streetNumber": "125",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Stipe Matic",
+    "address": {
+      "addressID": 100,
+      "streetName": "Ilica",
+      "streetNumber": "123",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 100,
+      "history": [
+        280,
+        371
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Angela Plazibat",
+    "address": {
+      "addressID": 101,
+      "streetName": "Vinkovacka",
+      "streetNumber": "29",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 101,
+      "history": [
+        350
+      ]
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Igor Jerkov",
+    "address": {
+      "addressID": 102,
+      "streetName": "Vukovarska",
+      "streetNumber": "125",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Stipe Matic",
+    "address": {
+      "addressID": 100,
+      "streetName": "Ilica",
+      "streetNumber": "123",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 100,
+      "history": [
+        280,
+        371
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Angela Plazibat",
+    "address": {
+      "addressID": 101,
+      "streetName": "Vinkovacka",
+      "streetNumber": "29",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 101,
+      "history": [
+        350
+      ]
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Igor Jerkov",
+    "address": {
+      "addressID": 102,
+      "streetName": "Put Plokita",
+      "streetNumber": "54",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  },
+  {
+    "clientID": 100,
+    "clientData": "Stipe Matic",
+    "address": {
+      "addressID": 100,
+      "streetName": "Ilica",
+      "streetNumber": "123",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 100,
+      "history": [
+        280,
+        371
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Angela Plazibat",
+    "address": {
+      "addressID": 101,
+      "streetName": "Vinkovacka",
+      "streetNumber": "29",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 101,
+      "history": [
+        350
+      ]
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Igor Jerkov",
+    "address": {
+      "addressID": 102,
+      "streetName": "Put Plokita",
+      "streetNumber": "54",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    }
+  }
+]
