@@ -1,0 +1,144 @@
+[
+  {
+    "smartDeviceID": 106,
+    "history": [
+      {
+        "month": 1,
+        "year": 2022,
+        "value": 367
+      },
+      {
+        "month": 2,
+        "year": 2022,
+        "value": 305
+      },
+      {
+        "month": 4,
+        "year": 2022,
+        "value": 476
+      }
+    ]
+  },
+  {
+    "smartDeviceID": 107,
+    "history": [
+      {
+        "month": 1,
+        "year": 2022,
+        "value": 216
+      }
+    ]
+  },
+  {
+    "smartDeviceID": 108,
+    "history": []
+  },
+  {
+    "smartDeviceID": 106,
+    "history": []
+  },
+  {
+    "smartDeviceID": 107,
+    "history": []
+  },
+  {
+    "smartDeviceID": 108,
+    "history": []
+  },
+  {
+    "smartDeviceID": 112,
+    "history": []
+  },
+  {
+    "smartDeviceID": 113,
+    "history": []
+  },
+  {
+    "smartDeviceID": 114,
+    "history": []
+  },
+  {
+    "smartDeviceID": 118,
+    "history": []
+  },
+  {
+    "smartDeviceID": 119,
+    "history": []
+  },
+  {
+    "smartDeviceID": 120,
+    "history": []
+  },
+  {
+    "smartDeviceID": 124,
+    "history": []
+  },
+  {
+    "smartDeviceID": 125,
+    "history": []
+  },
+  {
+    "smartDeviceID": 126,
+    "history": []
+  },
+  {
+    "smartDeviceID": 115,
+    "history": []
+  },
+  {
+    "smartDeviceID": 116,
+    "history": []
+  },
+  {
+    "smartDeviceID": 117,
+    "history": []
+  },
+  {
+    "smartDeviceID": 121,
+    "history": []
+  },
+  {
+    "smartDeviceID": 122,
+    "history": []
+  },
+  {
+    "smartDeviceID": 123,
+    "history": []
+  },
+  {
+    "smartDeviceID": 127,
+    "history": []
+  },
+  {
+    "smartDeviceID": 128,
+    "history": []
+  },
+  {
+    "smartDeviceID": 129,
+    "history": []
+  },
+  {
+    "smartDeviceID": 133,
+    "history": []
+  },
+  {
+    "smartDeviceID": 134,
+    "history": []
+  },
+  {
+    "smartDeviceID": 135,
+    "history": []
+  },
+  {
+    "smartDeviceID": 139,
+    "history": []
+  },
+  {
+    "smartDeviceID": 140,
+    "history": []
+  },
+  {
+    "smartDeviceID": 141,
+    "history": []
+  }
+]
