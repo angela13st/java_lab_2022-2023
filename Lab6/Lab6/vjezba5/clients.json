@@ -1,0 +1,66 @@
+[
+  {
+    "clientID": 100,
+    "clientData": "Klijent1",
+    "address": {
+      "addressID": 100,
+      "streetName": "Ilica",
+      "streetNumber": "123",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 106,
+      "history": [
+        {
+          "month": 1,
+          "year": 2022,
+          "value": 367
+        },
+        {
+          "month": 2,
+          "year": 2022,
+          "value": 305
+        },
+        {
+          "month": 4,
+          "year": 2022,
+          "value": 476
+        }
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Klijent2",
+    "address": {
+      "addressID": 101,
+      "streetName": "Riva",
+      "streetNumber": "1",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 107,
+      "history": []
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Klijent3",
+    "address": {
+      "addressID": 102,
+      "streetName": "Vukovarska",
+      "streetNumber": "12",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 108,
+      "history": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+h4 {
+   color: red;
+}
+error {
+   color: red;
+}
+ul {
+    border: 2px solid #e7e7e8;
+    background-color: #e7e7e8;
+}
+
+li a {
+    color: white;
+}
+
+table, th, td, tr {
+  border: 3px solid black;
+  border-style: double;
+}
+
+

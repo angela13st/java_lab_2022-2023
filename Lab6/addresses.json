@@ -1,0 +1,26 @@
+[
+  {
+    "addressID": 100,
+    "streetName": "Trg Britanac",
+    "streetNumber": "5",
+    "city": "Zagreb",
+    "zipCode": "10000",
+    "countryName": "Hrvatska"
+  },
+  {
+    "addressID": 101,
+    "streetName": "Simiceva",
+    "streetNumber": "10",
+    "city": "Split",
+    "zipCode": "21000",
+    "countryName": "Hrvatska"
+  },
+  {
+    "addressID": 102,
+    "streetName": "Rudera Boskovica",
+    "streetNumber": "5",
+    "city": "Split",
+    "zipCode": "21000",
+    "countryName": "Hrvatska"
+  }
+]

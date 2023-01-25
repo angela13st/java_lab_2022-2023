@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head >
+    <link th:rel="stylesheet" th:href="@{/webjars/bootstrap/5.1.3/css/bootstrap.min.css} "/>
+    <script src="@{/webjars/bootstrap/5.1.3/js/bootstrap.min.js}"></script>
+<link rel="stylesheet" href="/css/style.css">
+<meta charset="ISO-8859-1">
+<title>All clients</title>
+</head>
+<body class="container">
+ <div th:insert="fragments/header"></div>
+ <p></p>
+ <p class="align-middle text-center"><a
+				class="btn btn-primary" th:href="@{/addReading}">Add new reading for smart device</a></p>
+	<table class="table table-striped table-bordered ">
+	<thead  class="table-success">
+		<tr>
+			<th>Client ID</th>
+			<th>Client data</th>
+			<th>Address</th>
+			<th>Smart device ID</th>
+			<th>Smart device has history</th>
+		</tr>
+		</thead>
+		<tr th:if="${#lists.isEmpty(clients)}">
+			<td class="text-center" colspan="7">No clients found</td>
+		</tr>
+		<tr th:each="client : ${clients}">
+			<td class="align-middle" th:text="${client.clientID}"></td>
+			<td class="align-middle" th:text="${client.clientData}"></td>
+			<td class="align-middle" th:text="${client.address.streetName} 
+			+ ' ' + ${client.address.streetNumber} + ', ' +${client.address.city}"></td>
+			<td class="align-middle" th:text="${client.smartDevice.smartDeviceID}"></td>
+			<td class="align-middle" th:text="${client.smartDevice.history.size() > 0} ? 'yes' : 'no'"></td>
+			
+		</tr>
+	</table>
+</body>
+</html>

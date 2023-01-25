@@ -1,0 +1,36 @@
+[
+  {
+    "smartDeviceID": 106,
+    "history": [
+      {
+        "month": 1,
+        "year": 2022,
+        "value": 45
+      },
+      {
+        "month": 2,
+        "year": 2022,
+        "value": 55
+      }
+    ]
+  },
+  {
+    "smartDeviceID": 107,
+    "history": [
+      {
+        "month": 1,
+        "year": 2022,
+        "value": 45
+      },
+      {
+        "month": 2,
+        "year": 2022,
+        "value": 55
+      }
+    ]
+  },
+  {
+    "smartDeviceID": 108,
+    "history": []
+  }
+]

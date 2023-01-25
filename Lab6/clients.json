@@ -1,0 +1,72 @@
+[
+  {
+    "clientID": 100,
+    "clientData": "Milan Karamarko",
+    "address": {
+      "addressID": 100,
+      "streetName": "Trg Britanac",
+      "streetNumber": "5",
+      "city": "Zagreb",
+      "zipCode": "10000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 106,
+      "history": [
+        {
+          "month": 1,
+          "year": 2022,
+          "value": 45
+        },
+        {
+          "month": 2,
+          "year": 2022,
+          "value": 55
+        }
+      ]
+    }
+  },
+  {
+    "clientID": 101,
+    "clientData": "Nikola Perica",
+    "address": {
+      "addressID": 101,
+      "streetName": "Simiceva",
+      "streetNumber": "10",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 107,
+      "history": [
+        {
+          "month": 1,
+          "year": 2022,
+          "value": 45
+        },
+        {
+          "month": 2,
+          "year": 2022,
+          "value": 55
+        }
+      ]
+    }
+  },
+  {
+    "clientID": 102,
+    "clientData": "Petar Preradovic",
+    "address": {
+      "addressID": 102,
+      "streetName": "Rudera Boskovica",
+      "streetNumber": "5",
+      "city": "Split",
+      "zipCode": "21000",
+      "countryName": "Hrvatska"
+    },
+    "smartDevice": {
+      "smartDeviceID": 108,
+      "history": []
+    }
+  }
+]

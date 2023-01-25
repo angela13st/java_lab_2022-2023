@@ -1,0 +1,26 @@
+[
+  {
+    "addressID": 100,
+    "streetName": "Ilica",
+    "streetNumber": "123",
+    "city": "Zagreb",
+    "zipCode": "10000",
+    "countryName": "Hrvatska"
+  },
+  {
+    "addressID": 101,
+    "streetName": "Riva",
+    "streetNumber": "1",
+    "city": "Split",
+    "zipCode": "21000",
+    "countryName": "Hrvatska"
+  },
+  {
+    "addressID": 102,
+    "streetName": "Vukovarska",
+    "streetNumber": "12",
+    "city": "Split",
+    "zipCode": "21000",
+    "countryName": "Hrvatska"
+  }
+]

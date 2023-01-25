@@ -1,0 +1,20 @@
+[
+  {
+    "smartDeviceID": 106,
+    "history": [
+      {
+        "month": 1,
+        "year": 2021,
+        "value": 12
+      }
+    ]
+  },
+  {
+    "smartDeviceID": 107,
+    "history": []
+  },
+  {
+    "smartDeviceID": 108,
+    "history": []
+  }
+]
